@@ -1,7 +1,7 @@
 // Hello. this is my first project in C, I used C language before
 // but I'm trying to learn it again from scratch and continue till
 //I reach to more advanced algorithms and data structures.
-//This project is an elementary code as the firstProject so don't expect much ;]git
+//This project is an elementary code as the firstProject so don't expect much ;]
 #include <stdio.h>
 
 int main(void) {
