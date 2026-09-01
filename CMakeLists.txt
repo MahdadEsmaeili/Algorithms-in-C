@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 # This tells CLion to build an executable named "00_firstProject" using your file
 add_executable(firstProject 00_firstProject/main.c)
+add_executable(caesarCipher 01_caesarCipher/main.c)
