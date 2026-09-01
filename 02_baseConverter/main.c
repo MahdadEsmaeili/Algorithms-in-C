@@ -17,7 +17,6 @@ int main(void) {
     while (fscanf(fp, "%c", &ch) == 1) {
         if (ch == '\n' || ch == ' ') {
             printf("decimal value: %d\n", decimal);
-            decimal = 0;
         } else if (ch == '0' || ch == '1') {
             bit = ch - '0';
             decimal = (decimal * 2) + bit;
